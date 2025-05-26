@@ -10,4 +10,4 @@ HTML5 • CSS3 • JavaScript • Angular • Bootstrap • Git • GitHub • S
 🚀 Buscando oportunidades de estágio e colaboração em projetos reais
 
 🔗 **Meus links:**  
-[LinkedIn](https://linkedin.com/in/guilherme-santos-067a55367) • [GitHub](https://github.com/guilhermevl71)
+[LinkedIn](https://linkedin.com/in/guilhermesnts71) • [GitHub](https://github.com/guilhermevl71)
