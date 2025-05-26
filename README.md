@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá, eu sou o Guilherme! 👋
 
-<!--
-**guilhermevl71/guilhermevl71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação (5º período)  
+💻 Desenvolvedor Front-End com foco em Angular  
+🌱 Aprendendo constantemente e criando projetos práticos
 
-Here are some ideas to get you started:
+🛠️ **Tecnologias e Ferramentas:**  
+HTML5 • CSS3 • JavaScript • Angular • Bootstrap • Git • GitHub • SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Buscando oportunidades de estágio e colaboração em projetos reais
+
+🔗 **Meus links:**  
+[LinkedIn](https://linkedin.com/in/guilherme-santos-067a55367) • [GitHub](https://github.com/guilhermevl71)
