@@ -5,10 +5,10 @@
 🌱 Aprendendo constantemente e criando projetos práticos
 
 🛠️ **habilidades Técnicas:**  
-- Criação de interfaces responsivas com foco em acessibilidade e experiência do usuário (UI/UX)
-- Consumo de APIs REST usando JavaScript/Angular
 - Conhecimento em HTML5, CSS3, JavaScript, TypeScript
 - Frameworks: Angular, Bootstrap
+- Criação de interfaces responsivas com foco em acessibilidade e experiência do usuário (UI/UX)
+- Consumo de APIs REST usando JavaScript/Angular
 - Versionamento com Git e GitHub
 - Metodologias Ágeis: Scrum
 
